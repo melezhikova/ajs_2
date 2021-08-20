@@ -1,0 +1,23 @@
+{
+  "name": "ajs_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melezhikova/ajs_2.git"
+  },
+  "author": "Ludmila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melezhikova/ajs_2/issues"
+  },
+  "homepage": "https://github.com/melezhikova/ajs_2#readme",
+  "dependencies": {
+    "@melezhikova/ajs": "^1.0.0"
+  }
+}
